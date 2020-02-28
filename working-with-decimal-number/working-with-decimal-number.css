@@ -1,0 +1,13 @@
+body {
+  background-image: url(https://st3.ancientfacts.net/wp-content/uploads/2015/12/spartan-warrior-e1450977804822.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 100%;
+  width: 100%;
+}
+#info {
+  background-color: wheat;
+  border: black solid 50px;
+  height: 260px;
+  margin-top: 50%;
+}
